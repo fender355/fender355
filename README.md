@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fender355
 - 👀 I’m interested in testing n building custom ROMs. 
 - 🌱 I’m currently learning to build some custom ROMs. 
-- 💞️ I’m looking to collaborate on NULL
 - 📫 How to reach me : telegram @fender355 or email fender355@icloud.com
 
 <!---
