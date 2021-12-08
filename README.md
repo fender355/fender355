@@ -2,6 +2,7 @@
 - 👀 I’m interested in testing n building custom ROMs. 
 - 🌱 I’m currently learning to build some custom ROMs. 
 - 📫 How to reach me : telegram @fender355 or email fender355@icloud.com
+- 📫 follow too: @PixelExperienceMaxProM2 @pex01bd
 
 <!---
 fender355/fender355 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
