@@ -1,6 +1,6 @@
 </p align="left">
 <h1 align="left">Hello World </h1>
-<h3 align=left>I am a newbie to codings,but I am interested in it. </h3>
+<h3 align=left>I am a newbie to codings, but I am interested in it. </h3>
 
 
 - 😝 You can call me **@fender355** or **Brian** too.
