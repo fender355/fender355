@@ -1,6 +1,6 @@
 </p align="left">
 <h1 align="left">Hello World </h1>
-<h4 align=left>Status: Undergoing exams <img src=https://github.githubassets.com/images/icons/emoji/unicode/1f62e-1f4a8.png width=24 height=24></h4>
+<h3 align=left>Status: Undergoing exams <img src=https://github.githubassets.com/images/icons/emoji/unicode/1f62e-1f4a8.png width=24 height=24></h3>
 <h3 align=left>I am a newbie to codings, but I am interested in it. </h3>
 
 <h3 align=left>ℹ️ About me </h3>
