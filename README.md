@@ -2,10 +2,11 @@
 <h1 align="left">Hello World </h1>
 <h3 align=left>I am a newbie to codings, but I am interested in it. </h3>
 
+<h3 align=left>ℹ️ About me </h3>
 
 - 😝 You can call me **@fender355** or **Brian** too.
 
-<h3 align=left>👷What am I doing? </h3>
+<h3 align=left>👷 What am I doing? </h3>
 
 - 👀 I’m currently a tester @PixelExperience and I am testing X01BD device. 
 - 😆 Official website: https://download.pixelexperience.org/X01BD
