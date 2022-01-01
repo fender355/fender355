@@ -8,7 +8,7 @@
 
 <h3 align=left>👷 What am I doing? </h3>
 
-- 👀 I’m currently a **tester at** [**PixelExperience**](https://github.com/PixelExperience) and I am testing **X01BD** device. 
+- 👀 I’m currently a **tester at** [**PixelExperience**](https://github.com/PixelExperience) and I am testing and **building unofficials** for **X01BD** device. 
 - 😆 Official website: https://download.pixelexperience.org/X01BD
 
 <h3 align=left>🗒️ What am I learning right now? </h3>
