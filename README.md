@@ -18,5 +18,4 @@
 
 <h3 align=left>📲 How to contact me? </h3>
   
-- 📫 [**Telegram**](https://t.me/fender355) or [**e-mail**](mailto:fender355@icloud.com) (fender355@icloud.com) 🙂
-- 📢 Follow [**PE X01BD Channel**](https://t.me/pex01bd) too!
+- 📫 [**Telegram**](https://t.me/fender355) or [**E-mail**](mailto:fender355@icloud.com) (fender355@icloud.com) 🙂
